@@ -15,4 +15,4 @@ label start:
     narrator "Iniziamo questa avventura insieme."
     narrator "Questo è il Meucci, sarà la tua nuova scuola da ora in avanti, è pieno di persone strane ma credo che ti piacerà."
     
-    return 
+    return
